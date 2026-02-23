@@ -1,0 +1,7 @@
+battleship.py
+
+**/_pycache_/
+*/.pyc
+*/.pyo
+*/.egg-info/
+**/.pytest_cache/
