@@ -1,7 +1,18 @@
 battleship.py
 
-**/_pycache_/
+**GameController/_pycache_/
 */.pyc
 */.pyo
-*/.egg-info/
-**/.pytest_cache/
+
+**GameModes/_pycache_/
+*/.pyc
+*/.pyo
+
+
+**GameSettings/_pycache_/
+*/.pyc
+*/.pyo
+
+**GUI/_pycache_/
+*/.pyc
+*/.pyo
