@@ -32,7 +32,7 @@ class BattleshipGUI:
         sub_font   = tkfont.Font(family="Courier New", size=13)
         btn_font   = tkfont.Font(family="Courier New", size=12, weight="bold")
 
-        tk.Label(frame, text="⚓ BATTLESHIP", font=title_font,
+        tk.Label(frame, text="⚓ BATTLESHIP Strait of Hormuz", font=title_font,
                 fg=ACCENT, bg=BG_DARK).pack(pady=(0, 6))
         tk.Label(frame, text="AI Agents Edition", font=sub_font,
                 fg=TEXT_COLOR, bg=BG_DARK).pack(pady=(0, 30))
