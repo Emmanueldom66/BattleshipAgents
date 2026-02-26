@@ -1,6 +1,6 @@
 battleship.py
 
-GameController/_pycache_/
-GameModes/_pycache_/
-GameSettings/_pycache_/
-GUI/_pycache_/
+GameController/__pycache__/
+GameModes/__pycache__/
+GameSettings/__pycache__/
+GUI/__pycache__/
